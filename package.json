@@ -1,0 +1,15 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "For exploring nodejs app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Prasanth M",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
