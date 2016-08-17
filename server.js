@@ -4,7 +4,6 @@ var server = http.createServer(function(request, response){
 	response.write("safd");
 	response.end('<b>This is for testing nodemon<b/>');
 });
-console.log('Listening on Port 8028');
-
+console.log('Listening on Port 8010');
 
 server.listen(8090);
